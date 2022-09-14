@@ -8,8 +8,8 @@
         <img align="center"
             src="https://github-readme-stats.vercel.app/api?username=igorney&batatatinha=true&theme=tokyonight" />
     </a>
-    <a href="https://github.com/igorney/github-readme-stats" style="vertical-align:bottom;">
-        <img align="right"
+    <a href="https://github.com/igorney/github-readme-stats">
+        <img align="justify"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorney&theme=tokyonight&layout=compact" />
     </a>
 </div>
