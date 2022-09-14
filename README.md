@@ -9,7 +9,7 @@
             src="https://github-readme-stats.vercel.app/api?username=igorney&show_icons=true&theme=tokyonight" />
     </a>
     <a href="https://github.com/igorney/github-readme-stats">
-        <img align="right"
+        <img align="right" style="vertical-align:bottom;"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorney&theme=tokyonight&layout=compact" />
     </a>
 </div>
