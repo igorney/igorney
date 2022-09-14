@@ -6,10 +6,10 @@
 <div>
     <a href="https://github.com/igorney/github-readme-stats">
         <img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=igorney&show_icons=true&theme=tokyonight" />
+            src="https://github-readme-stats.vercel.app/api?username=igorney&batatatinha=true&theme=tokyonight" />
     </a>
-    <a href="https://github.com/igorney/github-readme-stats">
-        <img align="right" style="vertical-align:bottom;"
+    <a href="https://github.com/igorney/github-readme-stats" style="vertical-align:bottom;">
+        <img align="right"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorney&theme=tokyonight&layout=compact" />
     </a>
 </div>
