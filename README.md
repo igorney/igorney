@@ -47,7 +47,7 @@
     </a>
 </p>
 <a href="https://github.com/igorney/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorney&theme=dark&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorney&theme=tokyonight&layout=compact" />
 </a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
