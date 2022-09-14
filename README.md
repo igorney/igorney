@@ -5,7 +5,7 @@
 
 <div>
     <a href="https://github.com/igorney/github-readme-stats">
-        <img align="center"
+        <img align="justify"
             src="https://github-readme-stats.vercel.app/api?username=igorney&batatatinha=true&theme=tokyonight" />
     </a>
     <a href="https://github.com/igorney/github-readme-stats">
